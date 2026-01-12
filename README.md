@@ -7,4 +7,6 @@ I'm an undergraduate student in Computer Engineering at Budapest University of T
 
 I'm interested in low-level programming and machine learning.
 
-I intend to move fully to sourcehut, these will be read-only repositories in the future.<br/>
+> [!NOTE]
+> I intend to move fully to sourcehut, these will be read-only repositories in the future.
+<br/>

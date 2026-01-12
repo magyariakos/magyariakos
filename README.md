@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Magyari Ákos /</strong> <a href="https://magyariakos.hu">Homepage</a> / <a href="https://github.com/akosmagyari">GitHub</a> / <a href="https://gist.github.com/akosmagyari">Gist</a> / <a href="https://magyariakos.hu/contact">Contact</a></pre></p>
+<strong>Magyari Ákos /</strong> <a href="https://magyariakos.hu">Homepage</a> / <a href="https://sr.ht/~magyariakos/">sourcehut</a></pre></p>
 
 <img src="github-metrics.svg" align="right" width="40.5%"></img>
 
